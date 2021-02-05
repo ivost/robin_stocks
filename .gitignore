@@ -2,6 +2,8 @@
 .env
 data.pickle
 
+.idea
+
 # build and distribution files that are auto-generated
 build/
 dist/

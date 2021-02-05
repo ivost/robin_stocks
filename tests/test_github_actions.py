@@ -6,6 +6,9 @@ import pyotp
 import pytest
 from dateutil.relativedelta import relativedelta
 
+# pip install python-dateutil
+
+
 def third_friday(year, month, day):
     """Return datetime.date for monthly option expiration given year and
     month
